@@ -57,4 +57,4 @@ elif selected == "Study Material":
 elif selected == "AI Chatbot":
     st.subheader("🤖 Ask Anything about Stocks")
     st.info("ChatGPT integration coming soon...")
-    st.text_input("Ask your question:", placeholder="e.g. What is a VCP breakout?"
+    st.text_input("Ask your question:", placeholder="e.g. What is a VCP breakout?")
